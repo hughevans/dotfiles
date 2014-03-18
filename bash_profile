@@ -23,7 +23,7 @@ alias tre='tree -a -I .git'
 
 # Gem Bundler
 alias be='bundle exec'
-alias bi='bundle install --binstubs --without production'
+alias bi='bundle install --without production'
 
 # Git
 alias gci='git commit'
