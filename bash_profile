@@ -18,7 +18,7 @@ alias s='subl'
 alias sd='subl .'
 alias sdf='subl ~/src/dotfiles'
 alias ssc='subl ~/.ssh/config'
-alias st='python -m SimpleHTTPServer'
+alias st='open http://0.0.0.0:8000 && python -m SimpleHTTPServer'
 alias tre='tree -a -I .git'
 
 # Gem Bundler
