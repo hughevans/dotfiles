@@ -3,8 +3,8 @@ export EDITOR="subl"
 source /opt/boxen/env.sh
 
 # FIXME
-source /opt/boxen/homebrew/Cellar/git/1.8.0-boxen1/etc/bash_completion.d/git-completion.bash
-source /opt/boxen/homebrew/Cellar/git/1.8.0-boxen1/share/git-core/contrib/completion/git-prompt.sh
+source /opt/boxen/homebrew/Cellar/git/1.8.4-boxen2/etc/bash_completion.d/git-completion.bash
+source /opt/boxen/homebrew/Cellar/git/1.8.4-boxen2/etc/bash_completion.d/git-prompt.sh
 
 PS1='$(date +%H:%M) \w$(__git_ps1 " (%s)")\$ '
 
