@@ -6,14 +6,21 @@
   "font_face": "SourceCodePro-Regular",
   "font_size": 13.0,
   "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
-  "gutter_theme_excludes": [],
-  "paths": {
-    "linux": [],
-    "osx": [
+  "gutter_theme_excludes":
+  [
+  ],
+  "paths":
+  {
+    "linux":
+    [
+    ],
+    "osx":
+    [
       "/opt/boxen/nodenv/shims"
     ]
   },
-  "rulers": [
+  "rulers":
+  [
     80
   ],
   "spell_check": true,
