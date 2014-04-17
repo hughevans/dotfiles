@@ -1,5 +1,7 @@
 export EDITOR="subl"
 
+HISTFILESIZE=2000
+
 source /opt/boxen/env.sh
 
 # FIXME
