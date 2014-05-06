@@ -1,4 +1,5 @@
 export EDITOR="subl"
+export GIT_EDITOR="vim"
 
 HISTFILESIZE=2000
 
